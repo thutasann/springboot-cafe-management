@@ -9,7 +9,7 @@ import java.util.function.Function;
 @Service
 public class JwtUtil {
 
-    private String secret = "thutasanncafe";
+    private String secret = "thutasann";
 
     public <T> T extractClaims(String token, Function<Claims, T> claimsResolver){
         final Claims claims = extractAllClaims(token);
