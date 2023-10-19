@@ -1,3 +1,3 @@
 # springboot-cafe-management
 
-Coffee management API with Strping boot & MySQL.
+Coffee management API with Spring boot & MySQL.
